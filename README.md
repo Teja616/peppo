@@ -28,10 +28,15 @@ pip install -r requirements.txt
 🔑 API Key Setup
 
 You need a Hugging Face API token to use the text-to-video feature.
+
 Create (or log in to) your Hugging Face account.
+
 Go to Settings → Access Tokens and click New token.
+
 Copy your token.
+
 In your project folder, create a .streamlit/secrets.toml file:
+
 HF_TOKEN = "your_huggingface_api_token_here"
 
 ## Usage
