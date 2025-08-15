@@ -55,7 +55,7 @@ if st.button("🎥 Generate My Video"):
     if not prompt.strip():
         st.warning("Please enter a description to generate your video.")
     else:
-        with st.spinner("⏳ Creating your video... please wait."):
+        with st.spinner("⏳ Creating your video... please wait. This process may take ~ 10 minutes"):
             try:
                 video_bytes = client.text_to_video(
                     prompt,
