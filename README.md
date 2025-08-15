@@ -1,6 +1,7 @@
 # 🎬 AI Video Creator
 
 Turn your imagination into short, stunning AI-generated videos.  
+
 Just describe what you want to see — the AI will do the rest.
 
 ---
@@ -17,9 +18,9 @@ Just describe what you want to see — the AI will do the rest.
 
 ### 1️⃣ Clone the Repository
 
-git clone [https://github.com/Teja616/peppo.git]
+git clone https://github.com/Teja616/peppo.git
 
-cd ai-video-creator
+cd peppo
 
 ## Install Dependencies
 pip install -r requirements.txt
@@ -44,5 +45,7 @@ Run Command : streamlit run app.py
 
 ## Requirements
 Python 3.8+
+
 Internet connection
+
 Hugging Face API token
