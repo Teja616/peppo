@@ -18,6 +18,7 @@ Just describe what you want to see — the AI will do the rest.
 ### 1️⃣ Clone the Repository
 
 git clone https://github.com/your-username/ai-video-creator.git
+
 cd ai-video-creator
 
 ## Install Dependencies
